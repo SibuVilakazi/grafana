@@ -151,3 +151,4 @@ compilation-stats.json
 *_gen.go
 
 deployment_tools_config.json
+emails/package-lock.json
